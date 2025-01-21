@@ -58,11 +58,11 @@ Managed 44 total product listings, offering a diverse range of options to custom
 ## Reccomendations 
 ● **Enhancing Online Sales** <br>
 Online sales lack the tactile shopping experience, and the data points to only 10% of revenue coming from online sales. Wolfpack Outfitters can benefit from <br>
-    ○ Website Diagnostic Analysis: Utilize Google Analytics to assess **web traffic**,**user behaviour**, **conversion rates**, and **drop-off points** to identify areas for improvement. Thus 
+    - Website Diagnostic Analysis: Utilize Google Analytics to assess **web traffic**,**user behaviour**, **conversion rates**, and **drop-off points** to identify areas for improvement. Thus 
     helping to optimize the website for a smoother and more engaging shopping experience. By identifying pain points in the customer journey, the store can enhance product visibility, checkout efficiency, and marketing effectiveness, ultimately driving higher online sales.<br>
 
 ● **Data-Driven Restocking Strategy** <br>
-Implementing an automated inventory management system will enable real-time tracking of demand trends, ensuring that popular products remain in stock while minimizing excess inventory. Additionally, adjusting purchasing schedules based on seasonality, past performance, and projected demand will help maintain the right balance, reducing both overstock and stockouts.
+Implementing an automated inventory management system will enable real-time tracking of demand trends, ensuring that popular products remain in stock while minimizing excess inventory. Additionally, adjusting purchasing schedules based on seasonality, past performance, and projected demand will help maintain the right balance, reducing both overstock and stockouts.<br>
      ○ Use sales insights from SKU, colour, and size performance to determine restocking priorities.<br>
      ○ Implement an automated inventory management system to ensure real-time tracking of demand trends.<br>
      ○ Adjust purchasing schedules based on seasonality, past performance, and projected demand to reduce overstock and stockouts.<br>
