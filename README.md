@@ -29,19 +29,24 @@ Managed 44 total product listings, offering a diverse range of options to custom
 
 ## Key product performance
 **Top performers**
+
 <div align="left">
 <img width="450" alt="{F5D997CF-A519-46DC-826E-E0F4EBB03AB4}" src="https://github.com/user-attachments/assets/d25ba285-1085-46a2-a846-013cfbb0b8f3" />
 </div>
+
 ● The top 5 products contribute to approximately 25% of total revenue, highlighting their strong impact on overall sales.<br>
 ● HOOD SWEAT dominates, with SKU 755630 leading at 658 units sold, generating $32,938 in revenue at a consistent 54.45% gross profit margin.<br>
 ● The most popular size is Large (2837 units sold), followed by Medium (2628 units sold), reflecting customer demand for larger fits.<br>
 ● Black is the best-selling colour (2673 units sold) across various style options, reinforcing the need for constant stocking efforts.<br>
 The top-selling products fall within the $50–$60 price range, indicating a customer preference for this pricing sweet spot.
+
 ## Purchase trends
+
 <div align="left">
 <img width="450" alt="{D5DE73AD-A964-4A0A-B684-E39ACDA90713}" src="https://github.com/user-attachments/assets/cb849c46-25db-4ffc-bb21-fc882e8e314f" />
 </div>
-**Key trends from the visualization ** <br>
+
+**Key trends from the visualization**<br>
 ● Slow start in Q1: Purchases remained low, ranging between 200–500 units per month.<br>
 ● Increase in Q3: Purchase volume rose, reaching 979 units in August.<br>
 ● Peak in October: A significant spike occurred with 2,079 units purchased.<br>
