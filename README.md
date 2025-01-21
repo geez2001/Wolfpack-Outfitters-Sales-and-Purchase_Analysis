@@ -24,7 +24,7 @@ Wolfpack Outfitters dataset ERD
 ● Achieved online **sales revenue of $31.21K** for the HOOD SWEAT products, reflecting strong demand in the digital marketplace.<br>
 ● Maintained a solid 5**0.15% gross profit margin**, demonstrating effective pricing strategies and robust cost management.<br>
 ● Managed **cost of goods sold (COGS) at $15.56K**, ensuring a profitable online operation while maintaining product quality.<br>
-● Sold **554 units** across various listings, contributing to a healthy online sales volume yet relatively low compared to the instore sales.
+● Sold **554 units** across various listings, contributing to a healthy online sales volume yet relatively low compared to the in-store sales.
 Managed 44 total product listings, offering a diverse range of options to customers.
 
 ## Key product performance
@@ -53,7 +53,7 @@ Managed 44 total product listings, offering a diverse range of options to custom
 ● **Decline in Q4**: Purchases dropped sharply from November onward.<br>
 
 **Other metrics** <br>
-● Wolfpack Outfitters spent **$177.39K on restocks**, with the **highest replenishment** for** SKU 7xxxxxx**, indicating strong demand and ensuring stock availability for top-selling products.
+● Wolfpack Outfitters spent **$177.39K on restocks**, with the **highest replenishment** for **SKU 7xxxxxx**, indicating strong demand and ensuring stock availability for top-selling products.
 
 ## Reccomendations 
 ● **Enhancing Online Sales** <br>
